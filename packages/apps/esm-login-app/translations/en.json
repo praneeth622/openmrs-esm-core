@@ -11,6 +11,7 @@
   "errorChangingPassword": "Error changing password",
   "footerlogo": "Footer Logo",
   "invalidCredentials": "Invalid username or password",
+  "invalidTotpCode": "Invalid verification code. Please try again.",
   "learnMore": "Learn more",
   "locationPreferenceRemoved": "Login location preference removed",
   "locationPreferenceRemovedMessage": "You will need to select a location on each login",
@@ -36,7 +37,12 @@
   "selectYourLocation": "Select your location from the list below. Use the search bar to find your location.",
   "showPassword": "Show password",
   "submitting": "Submitting",
+  "totpPrompt": "Enter the 6-digit code from your authenticator app.",
   "username": "Username",
   "validValueRequired": "A valid value is required",
+  "verificationCode": "Verification code",
+  "verify": "Verify",
+  "verifyButtonDescription": "Verify code",
+  "verifying": "Verifying",
   "welcome": "Welcome"
 }
